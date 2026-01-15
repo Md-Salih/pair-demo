@@ -1,1 +1,1 @@
-This update demonstrates a co-authored commit.
+This newly update demonstrates a co-authored commit.
