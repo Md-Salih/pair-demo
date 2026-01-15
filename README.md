@@ -1,2 +1,1 @@
-# pair-demo
-this is repo is fro an experimetal purpose
+This update demonstrates a co-authored commit.
